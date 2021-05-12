@@ -7,8 +7,8 @@ namespace Toggl
 {
     public static class ApiRoutes
     {
-	    private const string TogglBaseUrl                           = "https://www.toggl.com/api/v8";
-		private const string TogglReportUrl                         = "https://toggl.com/reports/api/v2";
+	    private const string TogglBaseUrl                           = "https://api.track.toggl.com/api/v8";
+		private const string TogglReportUrl                         = "https://api.track.toggl.com/reports/api/v2";
 
 	    public static class Reports
         {
